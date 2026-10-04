@@ -1,0 +1,16 @@
+metric,value,unit
+Occupancy MAE,3.5565648358578947,people
+Occupancy RMSE,7.2607301075874044,people
+Occupancy R2,0.9939747012157581,
+Energy MAE - Actual Occupancy,798.3145930663671,W
+Energy RMSE - Actual Occupancy,1515.780763467784,W
+Energy R2 - Actual Occupancy,0.9853272663389826,
+Energy MAE - Predicted Occupancy,798.9568924570823,W
+Energy RMSE - Predicted Occupancy,1517.8149341985159,W
+Energy R2 - Predicted Occupancy,0.9852878584335167,
+Actual Peak Power,138916.086718,W
+Predicted Peak Power,141598.72326312092,W
+Optimized Peak Power,131332.81582654465,W
+Peak Reduction,7.249999999999998,%
+Potential Energy Saving,1070444255.1951168,W-equivalent aggregate
+Potential Saving Percentage,7.250000000000011,%
