@@ -42,7 +42,7 @@ DATA_FILE = (
 
 PIPELINE_FILE = (
     "iitd_processed/"
-    "iitd_pipeline_results.csv"
+    "iitd_pipeline_results.csv.gz"
 )
 
 SUMMARY_FILE = (
